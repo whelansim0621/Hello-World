@@ -1,0 +1,28 @@
+{
+  "startup": {
+      "buttons": {
+      "menu": {
+        "myAccount": "会员专区",
+        "iHoliday": "iHoliday",
+        "highlights": "促销活动",
+        "social": "社交网站",
+        "myPlanner": "个人导游",
+        "shows": "娱乐专区",
+        "hotel": "酒店住宿",
+        "dining": "饮食",
+        "themePark": "游乐园",
+        "gettingThere": "交通工具",
+        "weather": "天气预测",
+        "more": "更多",
+        "favourite": "我的最爱",
+        "setting": "设定",
+        "contactUs": "联络我们",
+        "website": "官方网站",
+      }
+    },
+    "labelGreeting": "你好 %s %s",
+    "labelLanguage": "简体中文",
+    "labelCountry": "马来西亚",
+    "myAccount": "会员专区",
+  }
+}
