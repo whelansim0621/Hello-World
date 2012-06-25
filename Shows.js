@@ -1,7 +1,7 @@
 var controller;
 exports.createShowsWindow = function(navGroup){
 	controller = navGroup;
-	var win = Ti.UI.createWindow({width:320,height:436,top:43,backgroundImage:'Pictures/genting_bgd.png',zIndex:0});
+	var win = Ti.UI.createWindow({width:500a,height:436,top:43,backgroundImage:'Pictures/genting_bgd.png',zIndex:0});
 	/*
 	var backButton = Ti.UI.createButton({width:22,height:22,backgroundImage:'Pictures/gt_ic_back.png'});
 	backButton.addEventListener('click', function(){Ti.API.info('close highlight');Ti.App.fireEvent('app:remove back btn',{id:6});Ti.App.fireEvent('app:pop');navGroup.close(win)});
