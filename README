@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hello from Whelan
 
 Test out branching
@@ -8,4 +9,7 @@ Alpha is adding code to this file
 Do something stupid again here. Muhahahaha~
 
 Beta adds another code to the same file
+>>>>>>> Beta
+=======
+Whelan is testing out merging
 >>>>>>> Beta
